@@ -1,3 +1,5 @@
 Hello XYZ
 
 from branch dev
+
+git reset
